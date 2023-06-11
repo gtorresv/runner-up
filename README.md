@@ -10,7 +10,10 @@ N/A
 
 ## Usage
 
-You can access the website by typing or copying and pasting the url: https://gtorresv.github.io/runner-up/ into your internet browser. To use this webpage you can just click on the navagation bar titles and it should take you to the sections that explain further about search engine optimization, online reputation management, and social media marketing.
+You can access the website by typing or copying and pasting the url: https://gtorresv.github.io/runner-up/ into your internet browser. To use this webpage you can just click on the navagation bar titles and it should take you to the sections that explain further about search engine optimization, online reputation management, and social media marketing. 
+
+The following is a screenshot of the finished webpage of this repository:
+![alt text](assets/images/Horiseon-webpage.png) 
 
 ## Credits
 
